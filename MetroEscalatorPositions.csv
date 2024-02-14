@@ -1,0 +1,195 @@
+Station,Direction,car1,door1,car2,door2,car1c,door1c,car2c,door2c,sentence1,sentence2,output
+Addison Road,Ashburn/Franconia-Springfield,1,2,,,1st,2nd,,,You should get on the 1st car 2nd door.,,You should get on the 1st car 2nd door. 
+Addison Road,Largo,8,2,,,8th,2nd,,,You should get on the 8th car 2nd door.,,You should get on the 8th car 2nd door. 
+Anacostia,Greenbelt,1,2,8,2,1st,2nd,8th,2nd,You should get on the 1st car 2nd door.,You could also get on the 8th car 2nd door.,You should get on the 1st car 2nd door. You could also get on the 8th car 2nd door.
+Anacostia,Branch Ave,8,2,1,2,8th,2nd,1st,2nd,You should get on the 8th car 2nd door.,You could also get on the 1st car 2nd door.,You should get on the 8th car 2nd door. You could also get on the 1st car 2nd door.
+Archives,Greenbelt,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Archives,Branch Ave/Huntington,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
+Arlington Cemetery,Franconia-Springfield,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Arlington Cemetery,Largo,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+Ashburn,Ashburn,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Ballston - MU,Ashburn/Vienna,5,3,6,2,5th,3rd,6th,2nd,You should get on the 5th car 3rd door.,You could also get on the 6th car 2nd door.,You should get on the 5th car 3rd door. You could also get on the 6th car 2nd door.
+Ballston - MU,Largo/New Carrollton,2,3,3,2,2nd,3rd,3rd,2nd,You should get on the 2nd car 3rd door.,You could also get on the 3rd car 2nd door.,You should get on the 2nd car 3rd door. You could also get on the 3rd car 2nd door.
+Benning Road,Ashburn/Franconia-Springfield,6,3,,,6th,3rd,,,You should get on the 6th car 3rd door.,,You should get on the 6th car 3rd door. 
+Benning Road,Largo,3,1,,,3rd,1st,,,You should get on the 3rd car 1st door.,,You should get on the 3rd car 1st door. 
+Bethesda,Shady Grove,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Bethesda,Glenmont,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Braddock Road,Largo/Mt Vernon Sq,5,1,,,5th,1st,,,You should get on the 5th car 1st door.,,You should get on the 5th car 1st door. 
+Braddock Road,Franconia-Springfield/Huntington,4,3,,,4th,3rd,,,You should get on the 4th car 3rd door.,,You should get on the 4th car 3rd door. 
+Branch Avenue,Branch Ave,4,3,,,4th,3rd,,,You should get on the 4th car 3rd door.,,You should get on the 4th car 3rd door. 
+Brookland-CUA,Shady Grove,5,1,,,5th,1st,,,You should get on the 5th car 1st door.,,You should get on the 5th car 1st door. 
+Brookland-CUA,Glenmont,4,3,,,4th,3rd,,,You should get on the 4th car 3rd door.,,You should get on the 4th car 3rd door. 
+Capitol Heights,Ashburn/Franconia-Springfield,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
+Capitol Heights,Largo,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Capitol South,Ashburn/Franconia-Springfield/Vienna,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+Capitol South,Largo/New Carrollton,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Cheverly,Vienna,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Cheverly,New Carrollton,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Clarendon,Ashburn/Vienna,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
+Clarendon,Largo/New Carrollton,3,1,,,3rd,1st,,,You should get on the 3rd car 1st door.,,You should get on the 3rd car 1st door. 
+Cleveland park,Shady Grove,2,3,,,2nd,3rd,,,You should get on the 2nd car 3rd door.,,You should get on the 2nd car 3rd door. 
+Cleveland park,Glenmont,7,1,,,7th,1st,,,You should get on the 7th car 1st door.,,You should get on the 7th car 1st door. 
+College Park-University of Maryland,Greenbelt,3,2,,,3rd,2nd,,,You should get on the 3rd car 2nd door.,,You should get on the 3rd car 2nd door. 
+College Park-University of Maryland,Branch Ave,6,2,,,6th,2nd,,,You should get on the 6th car 2nd door.,,You should get on the 6th car 2nd door. 
+Columbia Heights,Greenbelt,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Columbia Heights,Branch Ave,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
+Congress Heights,Greenbelt,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Congress Heights,Branch Ave,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Court House,Ashburn/Vienna,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
+Court House,Largo/New Carrollton,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Crystal City,Largo/Mt Vernon Sq,3,2,7,1,3rd,2nd,7th,1st,You should get on the 3rd car 2nd door.,You could also get on the 7th car 1st door.,You should get on the 3rd car 2nd door. You could also get on the 7th car 1st door.
+Crystal City,Franconia-Springfield/Huntington,6,2,2,3,6th,2nd,2nd,3rd,You should get on the 6th car 2nd door.,You could also get on the 2nd car 3rd door.,You should get on the 6th car 2nd door. You could also get on the 2nd car 3rd door.
+Deanwood,Vienna,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+Deanwood,New Carrollton,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Downtown Largo,Largo,6,1,3,3,6th,1st,3rd,3rd,You should get on the 6th car 1st door.,You could also get on the 3rd car 3rd door.,You should get on the 6th car 1st door. You could also get on the 3rd car 3rd door.
+Dulles International Airport,Ashburn,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
+Dulles International Airport,Largo,3,2,,,3rd,2nd,,,You should get on the 3rd car 2nd door.,,You should get on the 3rd car 2nd door. 
+Dunn Loring,Vienna,1,1,,,1st,1st,,,You should get on the 1st car 1st door.,,You should get on the 1st car 1st door. 
+Dunn Loring,New Carrollton,8,3,,,8th,3rd,,,You should get on the 8th car 3rd door.,,You should get on the 8th car 3rd door. 
+Dupont Circle,Shady Grove,3,2,6,2,3rd,2nd,6th,2nd,You should get on the 3rd car 2nd door.,You could also get on the 6th car 2nd door.,You should get on the 3rd car 2nd door. You could also get on the 6th car 2nd door.
+Dupont Circle,Glenmont,6,2,3,2,6th,2nd,3rd,2nd,You should get on the 6th car 2nd door.,You could also get on the 3rd car 2nd door.,You should get on the 6th car 2nd door. You could also get on the 3rd car 2nd door.
+East Falls Church,Ashburn/Vienna,4,1,4,3,4th,1st,4th,3rd,You should get on the 4th car 1st door.,You could also get on the 4th car 3rd door.,You should get on the 4th car 1st door. You could also get on the 4th car 3rd door.
+East Falls Church,Largo/New Carrollton,5,3,4,3,5th,3rd,4th,3rd,You should get on the 5th car 3rd door.,You could also get on the 4th car 3rd door.,You should get on the 5th car 3rd door. You could also get on the 4th car 3rd door.
+Eastern Market,Ashburn/Franconia-Springfield/Vienna,3,2,,,3rd,2nd,,,You should get on the 3rd car 2nd door.,,You should get on the 3rd car 2nd door. 
+Eastern Market,Largo/New Carrollton,6,2,,,6th,2nd,,,You should get on the 6th car 2nd door.,,You should get on the 6th car 2nd door. 
+Eisenhower Avenue,Mt Vernon Sq,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Eisenhower Avenue,Huntington,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Farragut North,Shady Grove,1,2,4,3,1st,2nd,4th,3rd,You should get on the 1st car 2nd door.,You could also get on the 4th car 3rd door.,You should get on the 1st car 2nd door. You could also get on the 4th car 3rd door.
+Farragut North,Glenmont,8,2,5,1,8th,2nd,5th,1st,You should get on the 8th car 2nd door.,You could also get on the 5th car 1st door.,You should get on the 8th car 2nd door. You could also get on the 5th car 1st door.
+Farragut West,Ashburn/Franconia-Springfield/Vienna,3,1,6,1,3rd,1st,6th,1st,You should get on the 3rd car 1st door.,You could also get on the 6th car 1st door.,You should get on the 3rd car 1st door. You could also get on the 6th car 1st door.
+Farragut West,Largo/New Carrollton,6,2,3,3,6th,2nd,3rd,3rd,You should get on the 6th car 2nd door.,You could also get on the 3rd car 3rd door.,You should get on the 6th car 2nd door. You could also get on the 3rd car 3rd door.
+Federal Center SW,Ashburn/Franconia-Springfield/Vienna,3,2,,,3rd,2nd,,,You should get on the 3rd car 2nd door.,,You should get on the 3rd car 2nd door. 
+Federal Center SW,Largo/New Carrollton,6,2,,,6th,2nd,,,You should get on the 6th car 2nd door.,,You should get on the 6th car 2nd door. 
+Federal Triangle,Ashburn/Franconia-Springfield/Vienna,3,2,6,3,3rd,2nd,6th,3rd,You should get on the 3rd car 2nd door.,You could also get on the 6th car 3rd door.,You should get on the 3rd car 2nd door. You could also get on the 6th car 3rd door.
+Federal Triangle,Largo/New Carrollton,6,3,3,1,6th,3rd,3rd,1st,You should get on the 6th car 3rd door.,You could also get on the 3rd car 1st door.,You should get on the 6th car 3rd door. You could also get on the 3rd car 1st door.
+Foggy Bottom-GWU,Ashburn/Franconia-Springfield/Vienna,5,1,,,5th,1st,,,You should get on the 5th car 1st door.,,You should get on the 5th car 1st door. 
+Foggy Bottom-GWU,Largo/New Carrollton,4,3,,,4th,3rd,,,You should get on the 4th car 3rd door.,,You should get on the 4th car 3rd door. 
+Forest Glen,Shady Grove,6,3,,,6th,3rd,,,You should get on the 6th car 3rd door.,,You should get on the 6th car 3rd door. 
+Forest Glen,Glenmont,3,1,,,3rd,1st,,,You should get on the 3rd car 1st door.,,You should get on the 3rd car 1st door. 
+Fort Totten (Green Line),Greenbelt,2,3,,,2nd,3rd,,,You should get on the 2nd car 3rd door.,,You should get on the 2nd car 3rd door. 
+Fort Totten (Green Line),Branch Ave,7,1,,,7th,1st,,,You should get on the 7th car 1st door.,,You should get on the 7th car 1st door. 
+Fort Totten (Red Line),Shady Grove,4,1,5,3,4th,1st,5th,3rd,You should get on the 4th car 1st door.,You could also get on the 5th car 3rd door.,You should get on the 4th car 1st door. You could also get on the 5th car 3rd door.
+Fort Totten (Red Line),Glenmont,5,3,4,1,5th,3rd,4th,1st,You should get on the 5th car 3rd door.,You could also get on the 4th car 1st door.,You should get on the 5th car 3rd door. You could also get on the 4th car 1st door.
+Franconia-Springfield,Franconia-Springfield,4,2,5,2,4th,2nd,5th,2nd,You should get on the 4th car 2nd door.,You could also get on the 5th car 2nd door.,You should get on the 4th car 2nd door. You could also get on the 5th car 2nd door.
+Friendship Heights,Shady Grove,6,1,2,3,6th,1st,2nd,3rd,You should get on the 6th car 1st door.,You could also get on the 2nd car 3rd door.,You should get on the 6th car 1st door. You could also get on the 2nd car 3rd door.
+Friendship Heights,Glenmont,3,3,7,1,3rd,3rd,7th,1st,You should get on the 3rd car 3rd door.,You could also get on the 7th car 1st door.,You should get on the 3rd car 3rd door. You could also get on the 7th car 1st door.
+Gallery Place (Green/Yellow Line),Greenbelt/Mt Vernon Sq,4,3,2,3,4th,3rd,2nd,3rd,You should get on the 4th car 3rd door.,You could also get on the 2nd car 3rd door.,You should get on the 4th car 3rd door. You could also get on the 2nd car 3rd door.
+Gallery Place (Green/Yellow Line),Branch Ave/Huntington,4,3,7,2,4th,3rd,7th,2nd,You should get on the 4th car 3rd door.,You could also get on the 7th car 2nd door.,You should get on the 4th car 3rd door. You could also get on the 7th car 2nd door.
+Gallery Place (Red Line),Shady Grove,3,2,8,2,3rd,2nd,8th,2nd,You should get on the 3rd car 2nd door.,You could also get on the 8th car 2nd door.,You should get on the 3rd car 2nd door. You could also get on the 8th car 2nd door.
+Gallery Place (Red Line),Glenmont,6,2,1,2,6th,2nd,1st,2nd,You should get on the 6th car 2nd door.,You could also get on the 1st car 2nd door.,You should get on the 6th car 2nd door. You could also get on the 1st car 2nd door.
+Georgia Ave-Petworth,Greenbelt,6,2,,,6th,2nd,,,You should get on the 6th car 2nd door.,,You should get on the 6th car 2nd door. 
+Georgia Ave-Petworth,Branch Ave,3,2,,,3rd,2nd,,,You should get on the 3rd car 2nd door.,,You should get on the 3rd car 2nd door. 
+Glenmont,Glenmont,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Greenbelt,Greenbelt,3,1,,,3rd,1st,,,You should get on the 3rd car 1st door.,,You should get on the 3rd car 1st door. 
+Greensboro,Ashburn,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Greensboro,Largo,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Grosvenor-Strathmore,Shady Grove,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
+Grosvenor-Strathmore,Glenmont,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Herndon,Ashburn,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+Herndon,Largo,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Huntington,Huntington,7,1,1,2,7th,1st,1st,2nd,You should get on the 7th car 1st door.,You could also get on the 1st car 2nd door.,You should get on the 7th car 1st door. You could also get on the 1st car 2nd door.
+Hyattsville Crossing,Greenbelt,4,3,,,4th,3rd,,,You should get on the 4th car 3rd door.,,You should get on the 4th car 3rd door. 
+Hyattsville Crossing,Branch Ave,5,1,,,5th,1st,,,You should get on the 5th car 1st door.,,You should get on the 5th car 1st door. 
+Innovation Center,Ashburn,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Innovation Center,Largo,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Judiciary Square,Shady Grove,3,1,6,3,3rd,1st,6th,3rd,You should get on the 3rd car 1st door.,You could also get on the 6th car 3rd door.,You should get on the 3rd car 1st door. You could also get on the 6th car 3rd door.
+Judiciary Square,Glenmont,6,3,3,1,6th,3rd,3rd,1st,You should get on the 6th car 3rd door.,You could also get on the 3rd car 1st door.,You should get on the 6th car 3rd door. You could also get on the 3rd car 1st door.
+King Street-Old Town,Largo/Mt Vernon Sq,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+King Street-Old Town,Franconia-Springfield/Huntington,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+L'Enfant Plaza (Blue/Orange/Silver Line),Ashburn/Franconia-Springfield/Vienna,5,1,6,1,5th,1st,6th,1st,You should get on the 5th car 1st door.,You could also get on the 6th car 1st door.,You should get on the 5th car 1st door. You could also get on the 6th car 1st door.
+L'Enfant Plaza (Blue/Orange/Silver Line),Largo/New Carrollton,4,3,3,3,4th,3rd,3rd,3rd,You should get on the 4th car 3rd door.,You could also get on the 3rd car 3rd door.,You should get on the 4th car 3rd door. You could also get on the 3rd car 3rd door.
+L'Enfant Plaza (Green/Yellow Line),Greenbelt/Mt Vernon Sq,3,1,6,2,3rd,1st,6th,2nd,You should get on the 3rd car 1st door.,You could also get on the 6th car 2nd door.,You should get on the 3rd car 1st door. You could also get on the 6th car 2nd door.
+L'Enfant Plaza (Green/Yellow Line),Branch Ave/Huntington,6,2,3,3,6th,2nd,3rd,3rd,You should get on the 6th car 2nd door.,You could also get on the 3rd car 3rd door.,You should get on the 6th car 2nd door. You could also get on the 3rd car 3rd door.
+Landover,Vienna,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Landover,New Carrollton,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Loudoun Gateway,Ashburn,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Loudoun Gateway,Largo,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+McLean,Ashburn,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+McLean,Largo,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+McPherson Square,Ashburn/Franconia-Springfield/Vienna,3,1,6,3,3rd,1st,6th,3rd,You should get on the 3rd car 1st door.,You could also get on the 6th car 3rd door.,You should get on the 3rd car 1st door. You could also get on the 6th car 3rd door.
+McPherson Square,Largo/New Carrollton,6,3,3,1,6th,3rd,3rd,1st,You should get on the 6th car 3rd door.,You could also get on the 3rd car 1st door.,You should get on the 6th car 3rd door. You could also get on the 3rd car 1st door.
+Medical Center,Shady Grove,3,2,,,3rd,2nd,,,You should get on the 3rd car 2nd door.,,You should get on the 3rd car 2nd door. 
+Medical Center,Glenmont,6,2,,,6th,2nd,,,You should get on the 6th car 2nd door.,,You should get on the 6th car 2nd door. 
+Metro Center (Blue/Orange/Silver Line),Ashburn/Franconia-Springfield/Vienna,3,2,4,2,3rd,2nd,4th,2nd,You should get on the 3rd car 2nd door.,You could also get on the 4th car 2nd door.,You should get on the 3rd car 2nd door. You could also get on the 4th car 2nd door.
+Metro Center (Blue/Orange/Silver Line),Largo/New Carrollton,6,2,5,2,6th,2nd,5th,2nd,You should get on the 6th car 2nd door.,You could also get on the 5th car 2nd door.,You should get on the 6th car 2nd door. You could also get on the 5th car 2nd door.
+Metro Center (Red Line),Shady Grove,3,1,6,3,3rd,1st,6th,3rd,You should get on the 3rd car 1st door.,You could also get on the 6th car 3rd door.,You should get on the 3rd car 1st door. You could also get on the 6th car 3rd door.
+Metro Center (Red Line),Glenmont,6,3,3,1,6th,3rd,3rd,1st,You should get on the 6th car 3rd door.,You could also get on the 3rd car 1st door.,You should get on the 6th car 3rd door. You could also get on the 3rd car 1st door.
+Minnesota Avenue,Vienna,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Minnesota Avenue,New Carrollton,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Morgan Boulevard,Ashburn/Franconia-Springfield,4,2,6,2,4th,2nd,6th,2nd,You should get on the 4th car 2nd door.,You could also get on the 6th car 2nd door.,You should get on the 4th car 2nd door. You could also get on the 6th car 2nd door.
+Morgan Boulevard,Largo,5,2,3,2,5th,2nd,3rd,2nd,You should get on the 5th car 2nd door.,You could also get on the 3rd car 2nd door.,You should get on the 5th car 2nd door. You could also get on the 3rd car 2nd door.
+Mount Vernon Square,Greenbelt/Mt Vernon Sq,4,3,6,1,4th,3rd,6th,1st,You should get on the 4th car 3rd door.,You could also get on the 6th car 1st door.,You should get on the 4th car 3rd door. You could also get on the 6th car 1st door.
+Mount Vernon Square,Branch Ave,5,1,3,3,5th,1st,3rd,3rd,You should get on the 5th car 1st door.,You could also get on the 3rd car 3rd door.,You should get on the 5th car 1st door. You could also get on the 3rd car 3rd door.
+Navy Yard-Ballpark,Greenbelt,3,2,6,3,3rd,2nd,6th,3rd,You should get on the 3rd car 2nd door.,You could also get on the 6th car 3rd door.,You should get on the 3rd car 2nd door. You could also get on the 6th car 3rd door.
+Navy Yard-Ballpark,Branch Ave,6,2,3,1,6th,2nd,3rd,1st,You should get on the 6th car 2nd door.,You could also get on the 3rd car 1st door.,You should get on the 6th car 2nd door. You could also get on the 3rd car 1st door.
+Naylor Road,Greenbelt,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Naylor Road,Branch Ave,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+New Carrollton,New Carrollton,6,2,,,6th,2nd,,,You should get on the 6th car 2nd door.,,You should get on the 6th car 2nd door. 
+NoMa-Gallaudet U,Shady Grove,2,1,5,2,2nd,1st,5th,2nd,You should get on the 2nd car 1st door.,You could also get on the 5th car 2nd door.,You should get on the 2nd car 1st door. You could also get on the 5th car 2nd door.
+NoMa-Gallaudet U,Glenmont,7,3,4,2,7th,3rd,4th,2nd,You should get on the 7th car 3rd door.,You could also get on the 4th car 2nd door.,You should get on the 7th car 3rd door. You could also get on the 4th car 2nd door.
+North Bethesda,Shady Grove,8,3,,,8th,3rd,,,You should get on the 8th car 3rd door.,,You should get on the 8th car 3rd door. 
+North Bethesda,Glenmont,1,1,,,1st,1st,,,You should get on the 1st car 1st door.,,You should get on the 1st car 1st door. 
+Pentagon,Largo/Mt Vernon Sq,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Pentagon,Franconia-Springfield/Huntington,8,2,3,3,8th,2nd,3rd,3rd,You should get on the 8th car 2nd door.,You could also get on the 3rd car 3rd door.,You should get on the 8th car 2nd door. You could also get on the 3rd car 3rd door.
+Pentagon City,Largo/Mt Vernon Sq,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+Pentagon City,Franconia-Springfield/Huntington,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Potomac Avenue,Ashburn/Franconia-Springfield/Vienna,4,3,7,3,4th,3rd,7th,3rd,You should get on the 4th car 3rd door.,You could also get on the 7th car 3rd door.,You should get on the 4th car 3rd door. You could also get on the 7th car 3rd door.
+Potomac Avenue,Largo/New Carrollton,5,1,2,1,5th,1st,2nd,1st,You should get on the 5th car 1st door.,You could also get on the 2nd car 1st door.,You should get on the 5th car 1st door. You could also get on the 2nd car 1st door.
+Potomac Yard,Largo/Mt Vernon Sq,2,1,,,2nd,1st,,,You should get on the 2nd car 1st door.,,You should get on the 2nd car 1st door. 
+Potomac Yard,Franconia-Springfield/Huntington,7,3,,,7th,3rd,,,You should get on the 7th car 3rd door.,,You should get on the 7th car 3rd door. 
+Reston Town Center,Ashburn,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Reston Town Center,Largo,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+Rhode Island Avenue,Shady Grove,4,1,4,3,4th,1st,4th,3rd,You should get on the 4th car 1st door.,You could also get on the 4th car 3rd door.,You should get on the 4th car 1st door. You could also get on the 4th car 3rd door.
+Rhode Island Avenue,Glenmont,5,3,5,1,5th,3rd,5th,1st,You should get on the 5th car 3rd door.,You could also get on the 5th car 1st door.,You should get on the 5th car 3rd door. You could also get on the 5th car 1st door.
+Rockville,Shady Grove,5,1,,,5th,1st,,,You should get on the 5th car 1st door.,,You should get on the 5th car 1st door. 
+Rockville,Glenmont,4,3,,,4th,3rd,,,You should get on the 4th car 3rd door.,,You should get on the 4th car 3rd door. 
+Rosslyn,Ashburn/Franconia-Springfield/Vienna,2,2,7,1,2nd,2nd,7th,1st,You should get on the 2nd car 2nd door.,You could also get on the 7th car 1st door.,You should get on the 2nd car 2nd door. You could also get on the 7th car 1st door.
+Rosslyn,Largo/New Carrollton,5,1,,,5th,1st,,,You should get on the 5th car 1st door.,,You should get on the 5th car 1st door. 
+Shady Grove,Shady Grove,4,3,,,4th,3rd,,,You should get on the 4th car 3rd door.,,You should get on the 4th car 3rd door. 
+Shaw-Howard University,Greenbelt,3,2,6,3,3rd,2nd,6th,3rd,You should get on the 3rd car 2nd door.,You could also get on the 6th car 3rd door.,You should get on the 3rd car 2nd door. You could also get on the 6th car 3rd door.
+Shaw-Howard University,Branch Ave,6,2,3,1,6th,2nd,3rd,1st,You should get on the 6th car 2nd door.,You could also get on the 3rd car 1st door.,You should get on the 6th car 2nd door. You could also get on the 3rd car 1st door.
+Silver Spring,Shady Grove,4,2,7,3,4th,2nd,7th,3rd,You should get on the 4th car 2nd door.,You could also get on the 7th car 3rd door.,You should get on the 4th car 2nd door. You could also get on the 7th car 3rd door.
+Silver Spring,Glenmont,5,2,2,1,5th,2nd,2nd,1st,You should get on the 5th car 2nd door.,You could also get on the 2nd car 1st door.,You should get on the 5th car 2nd door. You could also get on the 2nd car 1st door.
+Smithsonian,Ashburn/Franconia-Springfield/Vienna,4,1,6,3,4th,1st,6th,3rd,You should get on the 4th car 1st door.,You could also get on the 6th car 3rd door.,You should get on the 4th car 1st door. You could also get on the 6th car 3rd door.
+Smithsonian,Largo/New Carrollton,5,3,3,1,5th,3rd,3rd,1st,You should get on the 5th car 3rd door.,You could also get on the 3rd car 1st door.,You should get on the 5th car 3rd door. You could also get on the 3rd car 1st door.
+Southern Avenue,Greenbelt,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Southern Avenue,Branch Ave,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Spring Hill,Ashburn,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Spring Hill,Largo,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
+Stadium-Armory,Ashburn/Franconia-Springfield/Vienna,2,3,8,2,2nd,3rd,8th,2nd,You should get on the 2nd car 3rd door.,You could also get on the 8th car 2nd door.,You should get on the 2nd car 3rd door. You could also get on the 8th car 2nd door.
+Stadium-Armory,Largo/New Carrollton,7,1,1,2,7th,1st,1st,2nd,You should get on the 7th car 1st door.,You could also get on the 1st car 2nd door.,You should get on the 7th car 1st door. You could also get on the 1st car 2nd door.
+Suitland,Greenbelt,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Suitland,Branch Ave,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Takoma,Shady Grove,1,1,,,1st,1st,,,You should get on the 1st car 1st door.,,You should get on the 1st car 1st door. 
+Takoma,Glenmont,8,3,,,8th,3rd,,,You should get on the 8th car 3rd door.,,You should get on the 8th car 3rd door. 
+Tenleytown-AU,Shady Grove,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Tenleytown-AU,Glenmont,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
+Twinbrook,Shady Grove,7,2,,,7th,2nd,,,You should get on the 7th car 2nd door.,,You should get on the 7th car 2nd door. 
+Twinbrook,Glenmont,2,2,,,2nd,2nd,,,You should get on the 2nd car 2nd door.,,You should get on the 2nd car 2nd door. 
+Tysons,Ashburn,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Tysons,Largo,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+U Street,Greenbelt,3,1,7,1,3rd,1st,7th,1st,You should get on the 3rd car 1st door.,You could also get on the 7th car 1st door.,You should get on the 3rd car 1st door. You could also get on the 7th car 1st door.
+U Street,Branch Ave,6,3,2,3,6th,3rd,2nd,3rd,You should get on the 6th car 3rd door.,You could also get on the 2nd car 3rd door.,You should get on the 6th car 3rd door. You could also get on the 2nd car 3rd door.
+Union Station,Shady Grove,5,2,8,3,5th,2nd,8th,3rd,You should get on the 5th car 2nd door.,You could also get on the 8th car 3rd door.,You should get on the 5th car 2nd door. You could also get on the 8th car 3rd door.
+Union Station,Glenmont,4,2,1,1,4th,2nd,1st,1st,You should get on the 4th car 2nd door.,You could also get on the 1st car 1st door.,You should get on the 4th car 2nd door. You could also get on the 1st car 1st door.
+Van Dorn Street,Franconia-Springfield,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+Van Dorn Street,Largo,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Van Ness-UDC,Shady Grove,2,3,,,2nd,3rd,,,You should get on the 2nd car 3rd door.,,You should get on the 2nd car 3rd door. 
+Van Ness-UDC,Glenmont,7,1,,,7th,1st,,,You should get on the 7th car 1st door.,,You should get on the 7th car 1st door. 
+Vienna,Vienna,5,3,7,1,5th,3rd,7th,1st,You should get on the 5th car 3rd door.,You could also get on the 7th car 1st door.,You should get on the 5th car 3rd door. You could also get on the 7th car 1st door.
+Virginia Square-GMU,Ashburn/Vienna,5,1,,,5th,1st,,,You should get on the 5th car 1st door.,,You should get on the 5th car 1st door. 
+Virginia Square-GMU,Largo/New Carrollton,4,3,,,4th,3rd,,,You should get on the 4th car 3rd door.,,You should get on the 4th car 3rd door. 
+Washington National Airport,Largo/Mt Vernon Sq,1,1,8,3,1st,1st,8th,3rd,You should get on the 1st car 1st door.,You could also get on the 8th car 3rd door.,You should get on the 1st car 1st door. You could also get on the 8th car 3rd door.
+Washington National Airport,Franconia-Springfield/Huntington,8,3,1,1,8th,3rd,1st,1st,You should get on the 8th car 3rd door.,You could also get on the 1st car 1st door.,You should get on the 8th car 3rd door. You could also get on the 1st car 1st door.
+Waterfront,Greenbelt,3,2,,,3rd,2nd,,,You should get on the 3rd car 2nd door.,,You should get on the 3rd car 2nd door. 
+Waterfront,Branch Ave,6,2,,,6th,2nd,,,You should get on the 6th car 2nd door.,,You should get on the 6th car 2nd door. 
+West falls Church,Vienna,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+West falls Church,New Carrollton,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+West Hyattsville,Greenbelt,3,2,,,3rd,2nd,,,You should get on the 3rd car 2nd door.,,You should get on the 3rd car 2nd door. 
+West Hyattsville,Branch Ave,6,2,,,6th,2nd,,,You should get on the 6th car 2nd door.,,You should get on the 6th car 2nd door. 
+Wheaton,Shady Grove,5,2,,,5th,2nd,,,You should get on the 5th car 2nd door.,,You should get on the 5th car 2nd door. 
+Wheaton,Glenmont,4,2,,,4th,2nd,,,You should get on the 4th car 2nd door.,,You should get on the 4th car 2nd door. 
+Wiehle-Reston East,Ashburn,4,1,,,4th,1st,,,You should get on the 4th car 1st door.,,You should get on the 4th car 1st door. 
+Wiehle-Reston East,Largo,5,3,,,5th,3rd,,,You should get on the 5th car 3rd door.,,You should get on the 5th car 3rd door. 
+Woodley Park,Shady Grove,3,3,,,3rd,3rd,,,You should get on the 3rd car 3rd door.,,You should get on the 3rd car 3rd door. 
+Woodley Park,Glenmont,6,1,,,6th,1st,,,You should get on the 6th car 1st door.,,You should get on the 6th car 1st door. 
